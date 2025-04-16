@@ -1,0 +1,4 @@
+[submodule "clib"]
+	path = clib
+	url = https://git.savannah.gnu.org/git/acl.git
+	branch = master
